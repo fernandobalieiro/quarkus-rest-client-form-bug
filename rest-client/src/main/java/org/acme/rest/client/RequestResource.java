@@ -1,8 +1,8 @@
 package org.acme.rest.client;
 
-import org.jboss.resteasy.plugins.providers.FormUrlEncodedProvider;
-import org.jboss.resteasy.plugins.providers.JaxrsFormProvider;
-import org.jboss.resteasy.plugins.providers.ServerFormUrlEncodedProvider;
+//import org.jboss.resteasy.plugins.providers.FormUrlEncodedProvider;
+//import org.jboss.resteasy.plugins.providers.JaxrsFormProvider;
+//import org.jboss.resteasy.plugins.providers.ServerFormUrlEncodedProvider;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
